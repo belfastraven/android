@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch=".."
+           fetch="https://github.com"
            review="review.cyanogenmod.org" />
 
   <remote  name="private"
@@ -11,10 +11,9 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-7.0.0_r14" />
+           revision="refs/tags/android-7.1.0_r4" />
 
-  <default revision="refs/heads/cm-14.0"
-           remote="github"
+  <default remote="github" revision="refs/heads/cm-14.1"
            sync-c="true"
            sync-j="4" />
 
