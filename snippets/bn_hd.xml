@@ -14,7 +14,7 @@
 <project path="device/bn/hummingbird" name="android_device_bn_hummingbird" remote="airend" revision="wip/k-next"/>
 
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="unlegacy" />
-  <project path="vendor/bn" name="proprietary_vendor_bn" remote="unlegacy" revision="stable" />
-  <project path="vendor/ti" name="proprietary_vendor_ti" remote="unlegacy" revision="stable" />
+  <project path="vendor/bn" name="proprietary_vendor_bn" remote="airend" revision="stable" />
+  <project path="vendor/ti" name="proprietary_vendor_ti" remote="airend" revision="stable" />
 
 </manifest>
