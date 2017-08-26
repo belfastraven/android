@@ -33,8 +33,8 @@
   <project path="external/zip" name="LineageOS/android_external_zip" />
   <project path="hardware/cyanogen" name="LineageOS/android_hardware_cyanogen" />
   <project path="frameworks/opt/hardware" name="LineageOS/android_frameworks_opt_hardware" />
-  <project path="hardware/ti/omap4" name="android_hardware_ti_omap4" remote = "airend" revision = "stable"/>
-  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote = "airend" revision = "stable"/>
+  <project path="hardware/ti/omap4" name="android_hardware_ti_omap4" remote = "airend" revison = "stable"/>
+  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote = "airend" revison = "stable"/>
   <project path="hardware/ti/wpan" name="LineageOS/android_hardware_ti_wpan" revision="cm-14.1"/>
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
   <project path="packages/apps/CMBugReport" name="LineageOS/android_packages_apps_CMBugreport" />
